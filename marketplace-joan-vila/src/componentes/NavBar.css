@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+}
+.tituloNav{
+    color: burlywood;
+}
+
+.buttonNav{
+    background-color: burlywood;
+    color:black;
+    margin: 5px;
+    border-radius: 2px;
+}
